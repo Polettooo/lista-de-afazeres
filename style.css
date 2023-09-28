@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: 'Ubuntu', sans-serif;
+  width: 100%;
+  height: 100vh;
+  background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+  background-size: 100%;
+  
+}
+
+.container{
+  color: black;
+  background-color: rgb(76, 0, 253);
+  border-radius: 15px;
+  box-shadow: 0 0 20px;
+  padding: 50px;
+  margin: 0 auto;
+  align-items: center;
+  max-width: 400px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 10px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  border: 3px solid #0f04529d;
+}
+
+button{
+  background-color: #ffffff;
+  color:rgb(0, 0, 0);
+  border-radius: 15px;
+
+}
